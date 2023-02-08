@@ -1,5 +1,5 @@
 i am editing in main
 
-this will be added to the feature branch
+this will be create conflict to the feature branch
 
 now we will fetch from main to feature
