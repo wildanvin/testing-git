@@ -2,4 +2,4 @@ i am editing in main
 
 this will be create conflict to the feature branch
 
-lets see how the conflict solves
+this will conflict
